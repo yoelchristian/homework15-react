@@ -1,0 +1,33 @@
+[
+    {
+        "team": "arizona cardinals",
+        "gifs": "https://media.giphy.com/media/xT0xeLA1HxOMaHRwYM/giphy.gif",
+        "selectedStatus": false
+    },
+    {
+        "team": "atlanta falcons",
+        "gifs": "https://media.giphy.com/media/l0HTYXZNgd4qpWXte/giphy.gif",
+        "selectedStatus": false
+    },
+    {
+        "team": "baltimore raves",
+        "gifs": "https://media.giphy.com/media/3oFzmabv1ncYmoOUVy/giphy.gif",
+        "selectedStatus": false
+    },
+    {
+        "team": "buffalo bills",
+        "gifs": "https://media.giphy.com/media/3ohc15mBYWUfUubJsY/giphy.gif",
+        "selectedStatus": false
+    },
+    {
+        "team": "carolina panthers",
+        "gifs": "https://media.giphy.com/media/l49JMyt3x8PM83mXS/giphy.gif",
+        "selectedStatus": false
+    },
+    {
+        "team": "chicago bears",
+        "gifs": "https://media.giphy.com/media/3oxHQhPYrMDJChbKY8/giphy.gif",
+        "selectedStatus": false
+    }
+
+]
